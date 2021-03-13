@@ -1,0 +1,14 @@
+export APCA_API_BASE_URL="https://paper-api.alpaca.markets"
+export PAPER_KEY="PKIFMTO8JMRV6WJLUXH3"
+export PAPER_SECRET="kcHsfxqdPIW1lBIw9YlY7KXGEfxBhpTGrdRFnpJE"
+export BINANCE_API_KEY ='Ju1K3tridhvKlaIzKBSKYyXTK8RlyQMyQ6p0oc5zoYIE0ULk661RukTXbqw0kXJn'
+export BINANCE_API_SECRET='Okgj48OQSvXQeHhqiqRSd8C08g4HjmN6Jt5JQnFg2vTjgwf72n8HqBTavRZnbmMy'
+
+
+
+export https_proxy="http://192.168.49.1:88:21"
+
+
+pppd user "Default" password 123 call securetether pty "nc 192.168.49.1 8823"
+
+
